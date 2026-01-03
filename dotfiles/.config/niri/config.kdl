@@ -32,7 +32,7 @@ environment {
 // 光标配置
 cursor {
     // 主题，存放路径在~/.local/share/icons
-    xcursor-theme "breeze_cursors"
+    xcursor-theme "Bibata-Modern-Ice"
     // 大小
     xcursor-size 20
     // 闲置多少毫秒自动隐藏光标
